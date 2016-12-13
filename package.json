@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tinyCosmos/ReactJS/issues"
   },
-  "homepage": "https://github.com/tinyCosmos/ReactJS#readme"
+  "homepage": "https://github.com/tinyCosmos/ReactJS#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
 }
